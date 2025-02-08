@@ -1,0 +1,23 @@
+
+body{
+    margin: 0 auto;
+    align-items: center;
+    background-color: aqua;
+}
+
+
+h1{
+    font-size: 300px;
+    font-weight: 100px;
+    line-height: 150px;
+    padding: auto;
+    word-spacing: normal;
+    
+}
+
+.details{
+    font-weight: 50px;
+    padding: auto;
+}
+
+

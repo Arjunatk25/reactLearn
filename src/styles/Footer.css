@@ -1,0 +1,20 @@
+foot{
+
+    background-color: #ba0505;
+    color: #fff;
+    padding: 3em;
+    text-align: center;
+}
+.foot .downfall
+{
+   background-color: #211e1e;
+   margin: 0 auto;
+   padding: 1em;
+   width: 20em;
+   border-radius: 10px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+   display: flex;   
+   justify-content: space-between;
+   align-items: center;
+   
+}
