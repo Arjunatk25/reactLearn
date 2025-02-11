@@ -1,0 +1,25 @@
+.courseOverview{
+
+    background: rgba(255,255,255,0.5);
+-webkit-backdrop-filter: blur(10px);
+backdrop-filter: blur(10px);
+border: 1px solid rgba(255,255,255,0.25); 
+padding: 30px;
+
+
+}
+
+h2{
+    font-size: 50px;
+    font-weight: 100px;
+    color: black;
+
+    text-shadow: 0px 0px 0 #899CD5, 1px 1px 0 #8194CD, 2px 2px 0 #788BC4, 3px 3px 0 #6F82BB, 4px 4px 0 #677AB3, 5px 5px 0 #5E71AA, 6px 6px 0 #5568A1, 7px 7px 0 #4C5F98, 8px 8px 0 #445790, 9px 9px 0 #3B4E87, 10px 10px 0 #32457E, 11px 11px 0 #2A3D76, 12px 12px 0 #21346D,
+}
+p{
+    font-size: 20px;
+    font-weight: 100px;
+    color: rgb(255, 241, 241);
+   
+    
+}
